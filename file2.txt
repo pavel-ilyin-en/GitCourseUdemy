@@ -2,3 +2,4 @@ I'm file number two
 And I'm glad to be here
 Just third string
 Another line from user2.
+Another line from user2.
