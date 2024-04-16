@@ -4,3 +4,4 @@ Just third string
 Another line from user2.
 Another line from user2.
 Critical bug is fixed.
+Line from user2 - lesson about rebase.
